@@ -29,5 +29,4 @@ echo gettype ($altura) . '<br>';
 echo gettype ($fumante) . '<br>';
 $altura = '1.75';
 echo gettype($altura) . '<br>';
-
 ?> 
