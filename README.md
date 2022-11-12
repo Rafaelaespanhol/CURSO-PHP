@@ -52,5 +52,14 @@ Todo arquivo PHP tera a extensão .php
    - float ou double: todo numero decimal. Exemplo: 1.75
    - boolean: valor de verdadeiro(true) ou falso(false)
 
+### Operadores aritméticos 
+- + : adição
+- - : operador de subtração
+- * : operador de multiplicação
+- / : operador de divisão
+- **: exponenciação
+- % : resto da divisão, operador de módulo 
+
+
 
  
