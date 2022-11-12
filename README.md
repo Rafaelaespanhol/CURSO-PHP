@@ -37,8 +37,20 @@ Todo arquivo PHP tera a extensão .php
   - Para executar os arquivos php, precisamos requisita-los a partir do navegador digitando `http://localhost/` . Exemplo: http://localhost/site/index.php
 
 
+### Variaveis
+- Variavel é um espaço na memoria que damos um nome para armazenar algum valor.
+- O PHP é case-sensitive, significa que ele diferencia maiusculas de minusculas, ou seja, Nome é diferente de nome.
+- O nome de uma variavel deve ser significativo de acordo com o seu Valor. Exemplo: Para uma variavel que vai armazenar a idade de uma pessoa eu coloco o nome da variavel de $idade.
+- No PHP toda variavel inicia com $
+- Não utilize caracteres especiais, espaços ou acentos para nome de variaveis. Alguns deles ate funcionam, porém é recomendado escrever nomes de variaveis simples. Exemplo: ao invés de endereço para o nome de uma variavel utilize $endereço sem o 'ç'.
 
-
+### Tipos de dados
+- Os valores em php podem ser dividos entre os tipos:
+   - string: todo valor que estiver entre aspas é uma string, ou seja, um texto. Exemplo:'Rafa'
+   - Integer: todo número inteiro.
+   Exemplo: 36
+   - float ou double: todo numero decimal. Exemplo: 1.75
+   - boolean: valor de verdadeiro(true) ou falso(false)
 
 
  
